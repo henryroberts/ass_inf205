@@ -15,6 +15,7 @@
             <a class="navbar-brand" href="http://cleartuts.blogspot.com/search/label/CRUD">Sản phẩm</a>
             <a class="navbar-brand" href="http://cleartuts.blogspot.com/search/label/PDO">Hóa đơn</a>
             <a class="navbar-brand" href="http://cleartuts.blogspot.com/search/label/jQuery">Chi tiết hóa đơn</a>
+            <a class="navbar-brand" href="http://cleartuts.blogspot.com/search/label/jQuery">Loại sản phẩm</a>
         </div>
     </div>
 </div>

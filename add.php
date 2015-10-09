@@ -6,7 +6,6 @@ include_once 'lib/product.php';
 
 <div class="container">
 
-
 	 <form method='post'>
 
     <table class='table table-bordered'>

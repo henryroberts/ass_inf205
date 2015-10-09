@@ -69,7 +69,7 @@ else if(isset($_GET['failure']))
  
         <tr>
             <td>Số điện thoại</td>
-            <td><input type='text' name='contact_no' class='form-control' required></td>
+            <td><input type='number' name='contact_no' class='form-control' required></td>
         </tr>
  
         <tr>

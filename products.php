@@ -32,12 +32,12 @@ $product->query($sql);
 				<tr>
 					<td><?php echo $row['id_san_pham']; ?></td>
 					<td><?php echo $row['id_loai_sp']; ?></td>
-					<td><?php echo $row['ten_sp']; ?></td>
+					<td style="text-align: left;"><?php echo $row['ten_sp']; ?></td>
 					<td><?php echo $row['gia_sp']; ?></td>
 					<td style="text-align: left;"><?php echo $row['mo_ta']; ?></td>
 					<td><?php echo $row['trang_thai']; ?></td>
 					<td align="center">
-						<a href="edit.php"><i class="glyphicon glyphicon-edit"></i></a>
+						<a href="edit.php?ma=<?php echo $row['id_san_pham']; ?>"><i class="glyphicon glyphicon-edit"></i></a>
 					</td>
 					<td align="center">
 						<a href="del.php?id=<?php echo $row['id_san_pham']; ?>"><i class="glyphicon glyphicon-remove-circle"></i></a>

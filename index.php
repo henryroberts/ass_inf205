@@ -1,10 +1,8 @@
 <?php
 include_once 'dbconfig.php';
+include_once 'header.php';
 ?>
-<?php include_once 'header.php'; ?>
-
 <div class="clearfix"></div>
-
 <div class="container">
 <a href="add-data.php" class="btn btn-large btn-info"><i class="glyphicon glyphicon-plus"></i> &nbsp; Thêm khách hàng</a>
 </div>

@@ -75,7 +75,7 @@ else if(isset($_GET['failure']))
         <tr>
             <td colspan="2">
             <button type="submit" class="btn btn-primary" name="btn-save">
-    		<span class="glyphicon glyphicon-plus"></span> Khởi tạo bản ghi mới
+    		<span class="glyphicon glyphicon-plus"></span> Khởi tạo user mới
 			</button>  
             <a href="index.php" class="btn btn-large btn-success"><i class="glyphicon glyphicon-backward"></i> &nbsp; Quay lại trang index</a>
             </td>
